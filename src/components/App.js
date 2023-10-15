@@ -7,7 +7,7 @@ const App = () => {
 
   function handleIncrease(){
     setVal(()=>val+2)
-    cons
+    
   }
 
   return (
